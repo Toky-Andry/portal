@@ -32,7 +32,7 @@ const IconEmail = () => (
 
 const SOCIALS = [
   { name: 'GitHub',   href: 'https://github.com/Toky-Andry',                     icon: <IconGitHub /> },
-  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/toky-andry-750b15381',  icon: <IconLinkedIn /> },
+  { name: 'LinkedIn', href: 'https://www.linkedin.com/in/toky-andriamananatsoa-750b15381',  icon: <IconLinkedIn /> },
   { name: 'GitLab',   href: 'https://gitlab.com/khaleb_toky',                    icon: <IconGitLab /> },
   { name: 'WhatsApp', href: 'https://wa.me/261329320985',                        icon: <IconWhatsApp /> },
   { name: 'Email',    href: 'mailto:itclickmantoky@gmail.com',                   icon: <IconEmail /> },
