@@ -1,0 +1,21 @@
+{
+  "components\\sections\\HeroSection.tsx -> @/components/ui/Face3D": {
+    "id": 6168,
+    "files": [
+      "static/chunks/168.37c165f034431e55.js"
+    ]
+  },
+  "components\\ui\\Face3D.tsx -> three": {
+    "id": 7776,
+    "files": [
+      "static/chunks/b536a0f1.262b41d69d5cf716.js"
+    ]
+  },
+  "components\\ui\\Face3D.tsx -> three/examples/jsm/loaders/GLTFLoader.js": {
+    "id": 9938,
+    "files": [
+      "static/chunks/b536a0f1.262b41d69d5cf716.js",
+      "static/chunks/938.15b4418b1b474164.js"
+    ]
+  }
+}
